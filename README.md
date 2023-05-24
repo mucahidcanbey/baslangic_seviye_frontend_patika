@@ -1,9 +1,9 @@
  <br>
  
 
-<img src="https://academy.patika.dev/_next/image?url=https%3A%2F%2Fpatika-prod.s3.eu-central-1.amazonaws.com%2FstaticFiles%2Facademy-logo.png&w=256&q=75" alt="Patika Logo" width="200" height="30" />
+<img src="https://academy.patika.dev/_next/image?url=https%3A%2F%2Fpatika-prod.s3.eu-central-1.amazonaws.com%2FstaticFiles%2Facademy-logo.png&w=256&q=75" alt="Patika Logo" width="250" height="50" />
 
-<br>
+
 
 # Başlangıç Seviye Frontend Eğitimi
 
@@ -11,28 +11,55 @@
 
 <br>
 
-### HTML ÖDEVLERİ
+## HTML ÖDEVLERİ
 
 <br>
 
 1. Ödev
 
-<img src="images/html_1.png" alt="Patika Logo" width="300" height="200" />
+<img src="images/html_1.png" alt="Patika Logo" width="900" height="300" />
 
 <br>
 
 2. Ödev
 
-<img src="images/html_2.png" alt="Patika Logo" width="300" height="200" />
+<img src="images/html_2.png" alt="Patika Logo" width="900" height="300" />
 
 <br>
 
 3. Ödev
 
-<img src="images/html_2.png" alt="Patika Logo" width="300" height="200" />
+<img src="images/html_3.png" alt="Patika Logo" width="900" height="300" />
 
 
 <br>
+
+## CSS ÖDEVLERİ
+
+<br>
+
+1. Ödev
+
+<img src="images/css_1.png" alt="Patika Logo" width="900" height="300" />
+
+<br>
+
+2. Ödev
+
+<img src="images/css_2.png" alt="Patika Logo" width="900" height="300" />
+
+<br>
+
+3. Ödev
+
+<img src="images/css_3.png" alt="Patika Logo" width="900" height="300" />
+
+
+<br>
+
+<br>
+
+
 
 <hr>
 
