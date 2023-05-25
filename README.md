@@ -17,19 +17,19 @@
 
 1. Ödev
 
-<img src="images/html_1.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/html_1.png" alt="Patika Logo" width="600" height="350" />
 
 <br>
 
 2. Ödev
 
-<img src="images/html_2.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/html_2.png" alt="Patika Logo" width="600" height="350" />
 
 <br>
 
 3. Ödev
 
-<img src="images/html_3.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/html_3.png" alt="Patika Logo" width="600" height="350" />
 
 
 <br>
@@ -40,19 +40,19 @@
 
 1. Ödev
 
-<img src="images/css_1.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/css_1.png" alt="Patika Logo" width="600" height="350" />
 
 <br>
 
 2. Ödev
 
-<img src="images/css_2.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/css_2.png" alt="Patika Logo" width="600" height="350" />
 
 <br>
 
 3. Ödev
 
-<img src="images/css_3.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/css_3.png" alt="Patika Logo" width="600" height="350" />
 
 
 <br>
@@ -63,19 +63,19 @@
 
 1. Ödev
 
-<img src="images/bootstrap_1.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/bootstrap_1.png" alt="Patika Logo" width="600" height="350" />
 
 <br>
 
 2. Ödev
 
-<img src="images/bootstrap_2.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/bootstrap_2.png" alt="Patika Logo" width="600" height="350" />
 
 <br>
 
 3. Ödev
 
-<img src="images/bootstrap_3.png" alt="Patika Logo" width="600" height="300" />
+<img src="images/bootstrap_3.png" alt="Patika Logo" width="600" height="350" />
 
 
 <br>
@@ -86,14 +86,14 @@
 
  Bu repo [Patika Academy](https://academy.patika.dev/tr) Başlangıç Seviye Frontend Eğitiminde oluşturduğum ödevler var. 
 
-
+## ![Image](https://r.resimlink.com/QvqbJzUg.png)
 
 ## Installation
 
 Öncelikle projeyi clonelayın.
 
 ```
-https://github.com/Mucahid-Canbey/Html-Google-Odev-3.git
+https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika
 ```
 
 ## Usage
@@ -101,7 +101,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd kodluyoruzilkrepo
+cd 
+baslangic_seviye_frontend_patika
 code .
 ```
 ## Contributing
