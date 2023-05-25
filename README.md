@@ -7,6 +7,12 @@
 
 # Başlangıç Seviye Frontend Eğitimi
 
+1. >  [HTML Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#html-%C3%B6devleri%CC%87)
+
+2. >  [CSS Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#css-%C3%B6devleri%CC%87)
+1. >  [Bootstrap Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#bootstrap-%C3%B6devleri%CC%87)
+
+2. >  [JavaScript Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#javascript-%C3%B6devleri%CC%87)
 
 
 <br>
