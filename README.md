@@ -17,19 +17,19 @@
 
 1. Ödev
 
-<img src="images/html_1.png" alt="Patika Logo" width="900" height="300" />
+<img src="images/html_1.png" alt="Patika Logo" width="600" height="300" />
 
 <br>
 
 2. Ödev
 
-<img src="images/html_2.png" alt="Patika Logo" width="900" height="300" />
+<img src="images/html_2.png" alt="Patika Logo" width="600" height="300" />
 
 <br>
 
 3. Ödev
 
-<img src="images/html_3.png" alt="Patika Logo" width="900" height="300" />
+<img src="images/html_3.png" alt="Patika Logo" width="600" height="300" />
 
 
 <br>
@@ -40,22 +40,43 @@
 
 1. Ödev
 
-<img src="images/css_1.png" alt="Patika Logo" width="900" height="300" />
+<img src="images/css_1.png" alt="Patika Logo" width="600" height="300" />
 
 <br>
 
 2. Ödev
 
-<img src="images/css_2.png" alt="Patika Logo" width="900" height="300" />
+<img src="images/css_2.png" alt="Patika Logo" width="600" height="300" />
 
 <br>
 
 3. Ödev
 
-<img src="images/css_3.png" alt="Patika Logo" width="900" height="300" />
+<img src="images/css_3.png" alt="Patika Logo" width="600" height="300" />
 
 
 <br>
+
+## BOOTSTRAP ÖDEVLERİ
+
+<br>
+
+1. Ödev
+
+<img src="images/bootstrap_1.png" alt="Patika Logo" width="600" height="300" />
+
+<br>
+
+2. Ödev
+
+<img src="images/bootstrap_2.png" alt="Patika Logo" width="600" height="300" />
+
+<br>
+
+3. Ödev
+
+<img src="images/bootstrap_3.png" alt="Patika Logo" width="600" height="300" />
+
 
 <br>
 
