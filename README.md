@@ -9,13 +9,13 @@
 
 <br>
 
- ### [HTML Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#html-%C3%B6devleri%CC%87)
+ - **[HTML Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#html-%C3%B6devleri%CC%87)**
 
- ### [CSS Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#css-%C3%B6devleri%CC%87)
+ -  **[CSS Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#css-%C3%B6devleri%CC%87)**
 
- ### [Bootstrap Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#bootstrap-%C3%B6devleri%CC%87)
+ -  **[Bootstrap Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#bootstrap-%C3%B6devleri%CC%87)**
 
-###   [JavaScript Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#javascript-%C3%B6devleri%CC%87)
+-  **[JavaScript Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#javascript-%C3%B6devleri%CC%87)**
 
 <br>
 
@@ -42,7 +42,7 @@
 
 <br>
 
-[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
+- **[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)**
 
 <br>
 
@@ -68,7 +68,7 @@
 
 <br>
 
-[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
+- **[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)**
 
 
 <br>
@@ -95,7 +95,7 @@
 
 <br>
 
-[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
+- **[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)**
 
 <br>
 
@@ -122,7 +122,7 @@
 
 <br>
 
-[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
+- **[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)**
 
 
 <br>
