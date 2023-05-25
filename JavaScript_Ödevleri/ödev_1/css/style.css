@@ -1,0 +1,40 @@
+body {
+  background: black;
+}
+
+.clock,
+.text1,
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 7px;
+}
+
+.clock {
+  font-size: 60px;
+}
+
+.text1 {
+  font-size: 50px;
+}
+
+.text2 {
+  font-size: 40px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+img {
+  margin-top: 120px;
+  width: 17%;
+}
+
+#txt {
+  font-size: 51px;
+  color: #e98208;
+  border: solid;
+  border-radius: 60px;
+}

@@ -15,21 +15,21 @@
 
 <br>
 
-1. Ödev
+1. Ödev İlk Web Sayfamızı Oluşturmak
 
-<img src="images/html_1.png" alt="Patika Logo" width="600" height="350" />
-
-<br>
-
-2. Ödev
-
-<img src="images/html_2.png" alt="Patika Logo" width="600" height="350" />
+<img src="images/html_1.png" alt="Patika Logo" width="600" height="400" />
 
 <br>
 
-3. Ödev
+2. Ödev Kişisel Sayfamızı Detaylandırmak
 
-<img src="images/html_3.png" alt="Patika Logo" width="600" height="350" />
+<img src="images/html_2.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+3. Ödev Tatlı Tarifi
+
+<img src="images/html_3.png" alt="Patika Logo" width="600" height="400" />
 
 
 <br>
@@ -38,21 +38,21 @@
 
 <br>
 
-1. Ödev
+1. Ödev Sayfa Renklendirme
 
-<img src="images/css_1.png" alt="Patika Logo" width="600" height="350" />
-
-<br>
-
-2. Ödev
-
-<img src="images/css_2.png" alt="Patika Logo" width="600" height="350" />
+<img src="images/css_1.png" alt="Patika Logo" width="600" height="400" />
 
 <br>
 
-3. Ödev
+2. Ödev Eski Google Tasarlamak
 
-<img src="images/css_3.png" alt="Patika Logo" width="600" height="350" />
+<img src="images/css_2.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+3. Ödev Yeni Google Tasarlamak
+
+<img src="images/css_3.png" alt="Patika Logo" width="600" height="400" />
 
 
 <br>
@@ -61,28 +61,51 @@
 
 <br>
 
-1. Ödev
+1. Ödev Siteyi Geliştirme
 
-<img src="images/bootstrap_1.png" alt="Patika Logo" width="600" height="350" />
-
-<br>
-
-2. Ödev
-
-<img src="images/bootstrap_2.png" alt="Patika Logo" width="600" height="350" />
+<img src="images/bootstrap_1.png" alt="Patika Logo" width="600" height="400" />
 
 <br>
 
-3. Ödev
+2. Ödev Instagram Clone
 
-<img src="images/bootstrap_3.png" alt="Patika Logo" width="600" height="350" />
+<img src="images/bootstrap_2.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+3. Ödev Linkedin Clone
+
+<img src="images/bootstrap_3.png" alt="Patika Logo" width="600" height="400" />
+
+
+<br>
+
+## JAVASCRIPT ÖDEVLERİ
+
+<br>
+
+1. Ödev Saat ve Karşılama
+
+<img src="images/javas_1.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+2. Ödev To Do List
+
+<img src="images/javas_2.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+3. Ödev Asian Kitchen's Menu
+
+
+<img src="images/javas_3.png" alt="Patika Logo" width="600" height="400" />
 
 
 <br>
 
 
 
-<hr>
 
  Bu repo [Patika Academy](https://academy.patika.dev/tr) Başlangıç Seviye Frontend Eğitiminde oluşturduğum ödevler var. 
 
