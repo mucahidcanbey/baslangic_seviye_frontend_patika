@@ -7,17 +7,20 @@
 
 # Başlangıç Seviye Frontend Eğitimi
 
-1. >  [HTML Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#html-%C3%B6devleri%CC%87)
+<br>
 
-2. >  [CSS Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#css-%C3%B6devleri%CC%87)
-1. >  [Bootstrap Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#bootstrap-%C3%B6devleri%CC%87)
+ ### [HTML Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#html-%C3%B6devleri%CC%87)
 
-2. >  [JavaScript Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#javascript-%C3%B6devleri%CC%87)
+ ### [CSS Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#css-%C3%B6devleri%CC%87)
 
+ ### [Bootstrap Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#bootstrap-%C3%B6devleri%CC%87)
+
+###   [JavaScript Ödevleri İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#javascript-%C3%B6devleri%CC%87)
 
 <br>
 
-## HTML ÖDEVLERİ
+
+## HTML ÖDEVLERİ 
 
 <br>
 
@@ -37,6 +40,9 @@
 
 <img src="images/html_3.png" alt="Patika Logo" width="600" height="400" />
 
+<br>
+
+[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
 
 <br>
 
@@ -59,6 +65,10 @@
 3. Ödev Yeni Google Tasarlamak
 
 <img src="images/css_3.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
 
 
 <br>
@@ -83,6 +93,9 @@
 
 <img src="images/bootstrap_3.png" alt="Patika Logo" width="600" height="400" />
 
+<br>
+
+[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
 
 <br>
 
@@ -106,6 +119,10 @@
 
 
 <img src="images/javas_3.png" alt="Patika Logo" width="600" height="400" />
+
+<br>
+
+[Geri Dönmek İçin Tıklayın](https://github.com/mucahidcanbey/baslangic_seviye_frontend_patika#ba%C5%9Flang%C4%B1%C3%A7-seviye-frontend-e%C4%9Fitimi)
 
 
 <br>
